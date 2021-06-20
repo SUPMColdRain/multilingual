@@ -1,0 +1,13 @@
+.header {
+    background-color: #4895ef;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.small-icon {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
